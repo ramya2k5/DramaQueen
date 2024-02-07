@@ -9,7 +9,7 @@ body, html {
 }
 
 h1{
-  text-align: right;
+  text-align: center;
   margin-top: 550px;
   width: auto;
   font-size: 18px;
@@ -356,3 +356,4 @@ p{
     font-weight: lighter;
     margin-left: -5rem;
 }
+
